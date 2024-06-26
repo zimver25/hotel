@@ -1,0 +1,14 @@
+@import url(../fonts/fond.css);
+
+:root {
+    --font-family: "Open Sans";
+    --second-family: "Average Sans";
+    --third-family: "Work Sans";
+    --font4: "Merriweather";
+    --Light: 300;
+    --Regular: 400;
+    --Medium: 500;
+    --SemiBold: 600;
+    --Bold: 700;
+}
+
